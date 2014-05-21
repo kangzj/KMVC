@@ -1,0 +1,80 @@
+2014-05-06 04:52:22 [error] Severity: Warning  --> file_put_contents(E:\0_Projects\dv\dv\application\cache\autoload.cache.php): failed to open stream: No such file or directory E:\0_Projects\dv\dv\system\KAutoload.class.php 41
+2014-05-06 04:58:09 [error] Severity: Warning  --> file_put_contents(E:\0_Projects\dv\dv\application\cache\autoload.cache.php): failed to open stream: No such file or directory E:\0_Projects\dv\dv\system\KAutoload.class.php 41
+2014-05-06 04:58:10 [error] Severity: Warning  --> file_put_contents(E:\0_Projects\dv\dv\application\cache\autoload.cache.php): failed to open stream: No such file or directory E:\0_Projects\dv\dv\system\KAutoload.class.php 41
+2014-05-06 04:58:10 [error] Severity: Warning  --> file_put_contents(E:\0_Projects\dv\dv\application\cache\autoload.cache.php): failed to open stream: No such file or directory E:\0_Projects\dv\dv\system\KAutoload.class.php 41
+2014-05-06 04:58:10 [error] Severity: Warning  --> file_put_contents(E:\0_Projects\dv\dv\application\cache\autoload.cache.php): failed to open stream: No such file or directory E:\0_Projects\dv\dv\system\KAutoload.class.php 41
+2014-05-06 05:21:25 [error] Severity: Warning  --> array_shift() expects parameter 1 to be array, string given E:\0_Projects\dv\dv\system\KDispatcher.class.php 37
+2014-05-06 05:21:52 [error] Severity: Warning  --> array_shift() expects parameter 1 to be array, string given E:\0_Projects\dv\dv\system\KDispatcher.class.php 40
+2014-05-06 05:21:53 [error] Severity: Warning  --> array_shift() expects parameter 1 to be array, string given E:\0_Projects\dv\dv\system\KDispatcher.class.php 40
+2014-05-06 05:21:53 [error] Severity: Warning  --> array_shift() expects parameter 1 to be array, string given E:\0_Projects\dv\dv\system\KDispatcher.class.php 40
+2014-05-06 05:21:53 [error] Severity: Warning  --> array_shift() expects parameter 1 to be array, string given E:\0_Projects\dv\dv\system\KDispatcher.class.php 40
+2014-05-06 06:00:15 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'css' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:15 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'js' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:15 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:15 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:15 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:15 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:15 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'faviconico' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:17 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'css' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:17 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:17 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:17 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'js' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:17 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:17 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'faviconico' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'css' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'js' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'faviconico' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'css' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'js' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:18 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'faviconico' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:00:22 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:06 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:06 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:06 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:06 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:06 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'faviconico' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'faviconico' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'faviconico' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'php' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:07 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'faviconico' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 06:04:10 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'User' does not have a method 'img' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 07:41:11 [error] Severity: Warning  --> unlink(E:\0_Projects\dv\dv\application\cache\autoload.cache.php): Permission denied E:\0_Projects\dv\dv\system\KAutoload.class.php 74
+2014-05-06 07:50:08 [error] Severity: Notice  --> Undefined variable: resut E:\0_Projects\dv\dv\application\controller\User.class.php 25
+2014-05-06 07:50:08 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\User.class.php 25
+2014-05-06 07:51:06 [error] Severity: Notice  --> Undefined variable: resut E:\0_Projects\dv\dv\application\controller\User.class.php 25
+2014-05-06 07:51:06 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\User.class.php 25
+2014-05-06 07:51:35 [error] Severity: Notice  --> Undefined variable: resut E:\0_Projects\dv\dv\application\controller\User.class.php 26
+2014-05-06 07:51:35 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\User.class.php 26
+2014-05-06 07:53:06 [error] Severity: Notice  --> Undefined variable: resut E:\0_Projects\dv\dv\application\controller\User.class.php 26
+2014-05-06 07:53:06 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\User.class.php 26
+2014-05-06 07:53:36 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\User.class.php 26
+2014-05-06 07:53:48 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\User.class.php 26
+2014-05-06 08:29:52 [error] Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Panel' does not have a method 'index' E:\0_Projects\dv\dv\system\KDispatcher.class.php 62
+2014-05-06 08:43:52 [error] Severity: Warning  --> Missing argument 1 for KUtil::echo404AndExit(), called in E:\0_Projects\dv\dv\system\KErrorHandler.class.php on line 32 and defined E:\0_Projects\dv\dv\system\KUtil.class.php 35
+2014-05-06 08:43:52 [error] Severity: Notice  --> Undefined variable: exit E:\0_Projects\dv\dv\system\KUtil.class.php 38
+2014-05-06 10:13:59 [error] Severity: Notice  --> Use of undefined constant days - assumed 'days' E:\0_Projects\dv\dv\application\controller\Data.class.php 41
+2014-05-06 10:13:59 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\Data.class.php 52
+2014-05-06 10:14:16 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\Data.class.php 52
+2014-05-06 10:14:34 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\Data.class.php 52
+2014-05-06 10:17:44 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\Data.class.php 52
+2014-05-06 10:18:56 [error] Severity: Notice  --> Trying to get property of non-object E:\0_Projects\dv\dv\application\controller\Data.class.php 52
+2014-05-06 12:24:18 [error] Severity: Notice  --> Undefined variable: past_days E:\0_Projects\dv\dv\application\view\panelreport.php 4
+2014-05-06 12:24:18 [error] Severity: Warning  --> Invalid argument supplied for foreach() E:\0_Projects\dv\dv\application\view\panelreport.php 4
+2014-05-06 12:25:00 [error] Severity: Notice  --> Undefined variable: past_days E:\0_Projects\dv\dv\application\view\panelreport.php 4
+2014-05-06 12:25:00 [error] Severity: Warning  --> Invalid argument supplied for foreach() E:\0_Projects\dv\dv\application\view\panelreport.php 4
+2014-05-06 12:27:00 [error] Severity: Notice  --> Undefined variable: k E:\0_Projects\dv\dv\application\view\panelreport.php 9
+2014-05-06 12:27:00 [error] Severity: Notice  --> Undefined index:  E:\0_Projects\dv\dv\application\view\panelreport.php 9

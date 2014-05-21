@@ -26,6 +26,9 @@ class KController {
         return $this->dispatcher;
     }
     protected function jumpTo($url, $message = '') {
+    	if(strpos($url, 'http://') !== 0){
+    		$url = AppConfig::BASE_URL . $url;
+    	}
         echo '<html><head><title>' . $message . '</title>';
         echo '<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />';
         echo '<meta http-equiv="refresh" content="0; url=' . $url . '">';

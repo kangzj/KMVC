@@ -31,12 +31,12 @@ class KView {
             $view_name = $this->controller->getDispatcher()->getControllerName() . $this->controller->getDispatcher()->getActionName();
             $this->view_name = strtolower($view_name);
         }
-        $lang = $this->controller->getRequest()->getGetParam('lang');
-        if(!$lang){
-            $lang = 'en';
-        }
-        require KMVC_APPDIR . 'language/' . $lang . '.php';
-        $lang = &$_LANGUAGE [$lang];
+//         $lang = $this->controller->getRequest()->getGetParam('lang');
+//         if(!$lang){
+//             $lang = 'en';
+//         }
+//         require KMVC_APPDIR . 'language/' . $lang . '.php';
+//         $lang = &$_LANGUAGE [$lang];
         $view_file_name = KMVC_APPDIR . 'view' . DS . $this->view_name . '.php';
         //if the view file exists, load it. if not, do nothing.
         if (file_exists($view_file_name)) {

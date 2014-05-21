@@ -107,10 +107,7 @@ class KDatabase {
         if (empty($where)) {
             $where_str = '1=1';
         } else {
-            foreach ($where as $k => $v) {
-                $tmp_where [] = "$k=$v";
-            }
-            $where_str = implode(' and ', $tmp_where);
+            $where_str = implode(' and ', $where);
         }
         if ($offset != 0) {
             $limit_str = "limit $limit,$offset";
@@ -120,10 +117,7 @@ class KDatabase {
         if(empty($order)){
             $order_str = '';
         }else{
-           foreach ($order as $k => $v) {
-                $tmp_order [] = "$k $v";
-            }
-            $order_str = 'order by ' . implode(', ', $tmp_order);
+            $order_str = 'order by ' . implode(', ', $order);
         }
         $sql = "select $column_str from $table where $where_str $order_str $limit_str";
         return $this->query($sql);
