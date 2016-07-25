@@ -4,7 +4,7 @@
         <base href="<?=AppConfig::BASE_URL?>">
         <meta http-equiv="X-UA-Compatible" content="IE=Edge" >
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>高德CPR统计</title>
+        <title>Hello World</title>
         <link rel="stylesheet" type="text/css" href="css/main-blue.css" />
         <style># ui-datepicker-div{font-size:62%;}</style>
         <link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" />
@@ -61,24 +61,6 @@
         </style>
     </head>
     <body>
-    <div class="signin-box">
-        <div class="login-header">CPR数据组报表系统</div>
-        <div class="login-line"></div>
-        <form method="post" id="login-form" action="user/check">
-            <fieldset>
-                <legend></legend>
-                <div class="form-line">
-                    <input type="text" name="loginname" id="loginname" placeholder="用户名"/>
-                </div>
-                <div class="form-line">
-                    <input type="password" name="pwd" id="pwd" placeholder="登录密码"/>
-                </div>
-                <div class="login-error"></div>
-                <div class="form-line-btn">
-                    <button type="submit" class="btn">登&nbsp;&nbsp;录</button>
-                </div>
-            </fieldset>
-        </form>
-    </div>        
+    <p>Hello World!</p>
     </body>
     </html>

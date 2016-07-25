@@ -5,6 +5,6 @@
  */
 class Welcome extends KController {
 	public function index(){
-		$this->jumpTo('user/login');
+		$this->view->display();
 	}
 }
